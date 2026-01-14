@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🛠 Tech Stack<br>- Languages: JavaScript, Python, Lua  <br>- Game Dev: RPG Maker, Roblox Studio, Unity  <br>- AI/ML:YOLO, TensorFlow, OpenCV  <br>- Web: React, Tailwind CSS, Node.js  <br>- Database: MySQL</p>
+<p align="left">🛠 Tech Stack<br>- Languages: JavaScript, Python, Lua, C, C++  <br>- Game Dev: RPG Maker, Roblox Studio, Unity  <br>- AI/ML:YOLO, TensorFlow <br>- Web: React, Tailwind CSS, Node.js  <br>- Database: MySQL</p>
 
 ###
 
