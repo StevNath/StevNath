@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🔥 Current Projects<br>- 🤖 ShiroMaru Discord Bot</p>
+<p align="left">🔥 Projects<br>- 🤖 ShiroMaru Discord Bot<br>- 🌐 inventory management system for HBA with predictive analytics capabilities.</p>
 
 ![StevNath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevNath&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevNath&layout=compact&theme=tokyonight)
